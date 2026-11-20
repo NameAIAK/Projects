@@ -1,2 +1,2 @@
 # Projects
-个人项目汇总
+Projects Info
