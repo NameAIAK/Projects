@@ -21,11 +21,11 @@ git commit -m "initial commit"
 
 git push -u origin master #提交到你的仓库(首次提交用-u并指定分支)
 
-ProjectsName='AAA'
+ProjectsName='cardiacMBLipid'
 mkdir -p ${ProjectsName}/Figures ${ProjectsName}/Scripts ${ProjectsName}/Tables
 touch ${ProjectsName}/README.md
 
 git lfs track */*/*
 git add .
-git commit -m "提交动脉瘤项目"
-git push -u origin master #提交到你的仓库(首次提交用-u并指定分支)
+git commit -m 'cardiacMBLipid'
+git push
