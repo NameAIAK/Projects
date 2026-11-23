@@ -91,7 +91,6 @@ thymus/Figures/S5.pdf filter=lfs diff=lfs merge=lfs -text
 thymus/Figures/S8.pdf filter=lfs diff=lfs merge=lfs -text
 thymus/Scripts/CUTTagAna.sh filter=lfs diff=lfs merge=lfs -text
 thymus/Scripts/SCAna_sobj2.R filter=lfs diff=lfs merge=lfs -text
-thymus/Figures/F1.pdf filter=lfs diff=lfs merge=lfs -text
 thymus/Figures/F3.pdf filter=lfs diff=lfs merge=lfs -text
 thymus/Figures/F5.pdf filter=lfs diff=lfs merge=lfs -text
 thymus/Figures/S2.pdf filter=lfs diff=lfs merge=lfs -text
@@ -100,7 +99,6 @@ thymus/Figures/S6.pdf filter=lfs diff=lfs merge=lfs -text
 thymus/Scripts/SCAna_GSE253901.R filter=lfs diff=lfs merge=lfs -text
 thymus/Figures/F4.pdf filter=lfs diff=lfs merge=lfs -text
 thymus/Figures/F6.pdf filter=lfs diff=lfs merge=lfs -text
-thymus/Figures/S3.pdf filter=lfs diff=lfs merge=lfs -text
 thymus/Figures/S7.pdf filter=lfs diff=lfs merge=lfs -text
 thymus/Scripts/plotprofile.sh filter=lfs diff=lfs merge=lfs -text
 thymus/Figures/S1.pdf filter=lfs diff=lfs merge=lfs -text
