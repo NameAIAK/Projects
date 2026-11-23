@@ -21,7 +21,7 @@ git commit -m "initial commit"
 
 git push -u origin master #提交到你的仓库(首次提交用-u并指定分支)
 
-ProjectsName='KidneyIschemia'
+ProjectsName='thymusSC'
 mkdir -p ${ProjectsName}/Figures ${ProjectsName}/Scripts ${ProjectsName}/Tables
 touch ${ProjectsName}/README.md
 
