@@ -27,5 +27,5 @@ touch ${ProjectsName}/README.md
 
 git lfs track */${ProjectsName}/*
 git add .
-git commit -m 'KidneyIschemia'
+git commit -m 'thymusSC'
 git push
