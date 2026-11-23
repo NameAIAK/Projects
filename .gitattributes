@@ -106,3 +106,5 @@ thymus/Scripts/plotprofile.sh filter=lfs diff=lfs merge=lfs -text
 thymus/Figures/S1.pdf filter=lfs diff=lfs merge=lfs -text
 thymus/Scripts/SCAna_sobj4.R filter=lfs diff=lfs merge=lfs -text
 thymus/Scripts/github_address.txt filter=lfs diff=lfs merge=lfs -text
+thymus/Figures/S3.png filter=lfs diff=lfs merge=lfs -text
+thymus/Figures/F1.png filter=lfs diff=lfs merge=lfs -text
